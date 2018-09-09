@@ -1,0 +1,4 @@
+This is my work in terms of Natural language processing.
+
+It is based on Kaggle competition.
+ROC-AUC SCORE - 99.024%.
